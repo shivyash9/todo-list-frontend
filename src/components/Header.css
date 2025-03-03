@@ -1,0 +1,17 @@
+.header {
+    background-color: #4f46e5;
+    padding: 16px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .header h1 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }

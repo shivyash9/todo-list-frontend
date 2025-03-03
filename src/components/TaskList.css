@@ -1,0 +1,10 @@
+.task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .empty-tasks {
+    padding: 32px;
+    text-align: center;
+    color: #757575;
+  }
